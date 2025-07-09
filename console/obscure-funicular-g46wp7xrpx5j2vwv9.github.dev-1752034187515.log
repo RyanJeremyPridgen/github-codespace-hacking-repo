@@ -1,0 +1,2158 @@
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2 init 👋
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:workbench-telemetry:telemetry-service initialize {
+  "browserId": "fac2d1fc86b405854ef38fe95c6f9521",
+  "sessionId": "db4139a1-4cc5-4bcf-9591-c6b8597a3055",
+  "pageLoadId": "4e7a4284928968090c446c22380e2967",
+  "host": "github.dev",
+  "browserName": "chrome",
+  "browserVersion": "138.0.0",
+  "browserOS": "Mac OS",
+  "vscodeCommit": "401e9484bad1f7e909e43e3271f51e7fca7bf14c",
+  "vscodeQuality": "insider",
+  "portalName": "codespaces-web-client",
+  "version": "0.1.03063.765-aed2b484",
+  "stableVSCodeCommitId": "2901c5ac6db8a986a5666c3af51ff804d05af0d4",
+  "insiderVSCodeCommitId": "401e9484bad1f7e909e43e3271f51e7fca7bf14c",
+  "serviceLocation": "EastUS",
+  "serviceInstance": "prod-rel-EastUS",
+  "environment": "Production",
+  "serverCorrelationId": "9068b862-36b4-4978-a4f3-1f374d62c5c5",
+  "cookiesEnabled": true,
+  "workbenchType": "codespaces",
+  "editor": "vscode"
+}
+service-worker.js:1 vscs:sw:74b7:init got "configureServiceWorker" message {passthroughUrls: Array(1)}
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page initialize service worker Dev Tunnel connection
+service-worker.js:1 vscs:sw:74b7:init got "configureDevTunnelConnectionMessageType" message {codespaceInfo: {…}}
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench:rpc-client Initializing browser-based codespace host service client
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench:rpc-client Initializing browser-based Jupyter server host service client
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench:rpc-client Initializing browser-based VS Code server host service client
+log.ts:440  INFO Resolving connection token (codespaces)...
+log.ts:450  WARN Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+warn @ log.ts:450
+warn @ log.ts:559
+warn @ logService.ts:47
+(anonymous) @ extensionsProposedApi.ts:48
+Nyt @ extensionsProposedApi.ts:46
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+Oyt @ extensionService.ts:72
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:138
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+log.ts:450  WARN Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+warn @ log.ts:450
+warn @ log.ts:559
+warn @ logService.ts:47
+(anonymous) @ extensionsProposedApi.ts:48
+Nyt @ extensionsProposedApi.ts:46
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+Oyt @ extensionService.ts:72
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:138
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+log.ts:450  WARN Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+warn @ log.ts:450
+warn @ log.ts:559
+warn @ logService.ts:47
+(anonymous) @ extensionsProposedApi.ts:48
+Nyt @ extensionsProposedApi.ts:46
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+Oyt @ extensionService.ts:72
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:138
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+webviewElement.ts:483 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+mountTo @ webviewElement.ts:483
+gc @ gettingStarted.ts:561
+ic @ gettingStarted.ts:795
+Dc @ gettingStarted.ts:2020
+lc @ gettingStarted.ts:946
+(anonymous) @ gettingStarted.ts:233
+queue @ async.ts:292
+F @ gettingStarted.ts:233
+(anonymous) @ gettingStarted.ts:243
+C @ event.ts:1219
+D @ event.ts:1230
+fire @ event.ts:1254
+(anonymous) @ workspacesService.ts:52
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ event.ts:165
+C @ event.ts:1219
+D @ event.ts:1230
+fire @ event.ts:1254
+resume @ event.ts:1406
+y @ storage.ts:501
+store @ storage.ts:467
+t @ workspacesService.ts:152
+addRecentlyOpened @ workspacesService.ts:130
+await in addRecentlyOpened
+r @ workspacesService.ts:76
+r0t @ workspacesService.ts:44
+o @ instantiationService.ts:162
+(anonymous) @ instantiationService.ts:316
+g @ async.ts:1518
+get value @ async.ts:1535
+get @ instantiationService.ts:366
+Yme @ menubarControl.ts:444
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+Kb @ activitybarPart.ts:288
+create @ activitybarPart.ts:334
+show @ activitybarPart.ts:148
+Q @ activitybarPart.ts:107
+create @ part.ts:80
+xc @ workbench.ts:348
+(anonymous) @ workbench.ts:161
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+webviewElement.ts:483 An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+mountTo @ webviewElement.ts:483
+gc @ gettingStarted.ts:561
+ic @ gettingStarted.ts:795
+Dc @ gettingStarted.ts:2020
+lc @ gettingStarted.ts:946
+setInput @ gettingStarted.ts:351
+await in setInput
+S @ editorPanes.ts:464
+L @ editorPanes.ts:259
+openEditor @ editorPanes.ts:136
+(anonymous) @ editorGroupView.ts:1259
+Lb @ editorGroupView.ts:1283
+rb @ editorGroupView.ts:563
+zN @ editorGroupView.ts:238
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+createFromSerialized @ editorGroupView.ts:71
+bc @ editorPart.ts:636
+fromJSON @ editorPart.ts:1237
+r @ gridview.ts:1741
+(anonymous) @ gridview.ts:1734
+r @ gridview.ts:1732
+q @ gridview.ts:1725
+deserialize @ gridview.ts:1719
+deserialize @ grid.ts:818
+qc @ editorPart.ts:1231
+pc @ editorPart.ts:1203
+oc @ editorPart.ts:1175
+Q @ editorPart.ts:1010
+create @ part.ts:80
+xc @ workbench.ts:348
+(anonymous) @ workbench.ts:161
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+index.html?id=aecdff54-6901-4876-a0c0-8977f332ab96&parentId=1&origin=aecdff54-6901-4876-a0c0-8977f332ab96&swVersion=4&extensionId=&platform=browser&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=https%3A%2F%2Fobscure-funicular-g46wp7xrpx5j2vwv9.github.dev&remoteAuthority=codespaces%2Bobscure-funicular-g46wp7xrpx5j2vwv9:285 No service worker controller found. Waiting for controllerchange.
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespace-state-watcher codespace state -> Available
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespace-state-watcher codespace state -> Available
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page Creating or reusing https/16635 with privacy 'undefined', attempt 0
+commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1 Refused to set unsafe header "User-Agent"
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+j @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+xhr @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+ot @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+_request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+axiosRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+request @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+sendTunnelRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+await in sendTunnelRequest
+createTunnelPort @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+n @ 3907.618c047391a0016c9c58.js:1
+t.withRetries @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+withTunnelManagementClient @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+createOrReuseTunnelPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+forwardPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getStreamFromPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getGRPCStream @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+(anonymous) @ 514.js:1
+f @ 7202.js:1
+i.acquire @ 7202.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+executeAndReleaseLock @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+startTransport @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+start @ 514.js:1
+e.start @ commons-bootstrap~pfHelper-grpc-web-client.umd.js.eaa8e3586b6b17406ca1.js:1
+t.unary @ commons-bootstrap~pfHelper-grpc-web-client.umd.js.eaa8e3586b6b17406ca1.js:1
+(anonymous) @ 3920.js:1
+executeGrpcFunction @ 3920.js:1
+(anonymous) @ 3920.js:1
+(anonymous) @ 3920.js:1
+n @ 3920.js:1
+startRemoteServerAsync @ 3920.js:1
+(anonymous) @ 7202.js:1
+(anonymous) @ 7202.js:1
+o @ 7202.js:1
+executeRpcFunction @ 7202.js:1
+(anonymous) @ 7202.js:1
+(anonymous) @ 7202.js:1
+o @ 7202.js:1
+startRemoteServerAsync @ 7202.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getVSCodeConnectionDetails @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+(anonymous) @ 514.js:1
+r @ progressService.ts:52
+(anonymous) @ progressService.ts:221
+w @ progressService.ts:202
+withProgress @ progressService.ts:89
+withProgress @ web.main.ts:199
+e @ web.factory.ts:146
+await in e
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getConnectionTokenWithProgress @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page Tunnel client is unconnected, fetching tunnel and connecting {tunnelId: 'neat-ocean-f0h47l9', clusterId: 'usw3', domain: 'app.github.dev', accessTokens: {…}, ports: Array(1)}
+commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1 Refused to set unsafe header "User-Agent"
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+j @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+xhr @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+ot @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+_request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+axiosRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+request @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+sendTunnelRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+await in sendTunnelRequest
+getTunnel @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+n @ 3907.618c047391a0016c9c58.js:1
+t.withRetries @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+withTunnelManagementClient @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+(anonymous) @ 514.js:1
+f @ 7202.js:1
+i.acquire @ 7202.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+withConnectedTunnelClient @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+refreshPorts @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+createOrReuseTunnelPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+forwardPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getStreamFromPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getGRPCStream @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+(anonymous) @ 514.js:1
+f @ 7202.js:1
+i.acquire @ 7202.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+executeAndReleaseLock @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+startTransport @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+start @ 514.js:1
+e.start @ commons-bootstrap~pfHelper-grpc-web-client.umd.js.eaa8e3586b6b17406ca1.js:1
+t.unary @ commons-bootstrap~pfHelper-grpc-web-client.umd.js.eaa8e3586b6b17406ca1.js:1
+(anonymous) @ 3920.js:1
+executeGrpcFunction @ 3920.js:1
+(anonymous) @ 3920.js:1
+(anonymous) @ 3920.js:1
+n @ 3920.js:1
+startRemoteServerAsync @ 3920.js:1
+(anonymous) @ 7202.js:1
+(anonymous) @ 7202.js:1
+o @ 7202.js:1
+executeRpcFunction @ 7202.js:1
+(anonymous) @ 7202.js:1
+(anonymous) @ 7202.js:1
+o @ 7202.js:1
+startRemoteServerAsync @ 7202.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getVSCodeConnectionDetails @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+(anonymous) @ 514.js:1
+r @ progressService.ts:52
+(anonymous) @ progressService.ts:221
+w @ progressService.ts:202
+withProgress @ progressService.ts:89
+withProgress @ web.main.ts:199
+e @ web.factory.ts:146
+await in e
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getConnectionTokenWithProgress @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+log.ts:440  INFO Updating additional builtin extensions cache
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page Created port https/16635 with privacy 'private'
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench Executed start-remote-server using gRPC
+service-worker.js:1 vscs:sw:74b7:init got "setVSCodeServerPortMessageType" message {port: 38307}
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench Progress: Done
+service-worker.js:1 vscs:sw:74b7:init got "setVSCodeServerPortMessageType" message {port: 38307}
+log.ts:440  INFO Resolved connection token (codespaces) after 4703 ms
+log.ts:440  INFO Creating a socket (renderer-Management-816d5d81-3178-45ff-a83c-a63ade28c34c)...
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #1, url: wss://codespaces+obscure-funicular-g46wp7xrpx5j2vwv9:443/insider-401e9484bad1f7e909e43e3271f51e7fca7bf14c?reconnectionToken=816d5d81-3178-45ff-a83c-a63ade28c34c&reconnection=false&skipWebSocketFrames=false
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-1 opening vscode channel {id: 30691687, name: 'obscure-funicular-g46wp7xrpx5j2vwv9', environment_id: '5c058826-b20c-4788-85a3-f02a23697427', owner: {…}, billable_owner: {…}, …}
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page Creating or reusing https/38307 with privacy 'undefined', attempt 0
+log.ts:440  INFO Creating a socket (renderer-ExtensionHost-bfde6cb3-389c-4ff0-8958-1678cb739be3)...
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench creating new WebSocket #2, url: wss://codespaces+obscure-funicular-g46wp7xrpx5j2vwv9:443/insider-401e9484bad1f7e909e43e3271f51e7fca7bf14c?reconnectionToken=bfde6cb3-389c-4ff0-8958-1678cb739be3&reconnection=false&skipWebSocketFrames=false
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench:web-socket-2 opening vscode channel {id: 30691687, name: 'obscure-funicular-g46wp7xrpx5j2vwv9', environment_id: '5c058826-b20c-4788-85a3-f02a23697427', owner: {…}, billable_owner: {…}, …}
+commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1 Refused to set unsafe header "User-Agent"
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+j @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+xhr @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+ot @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+_request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+axiosRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+request @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+sendTunnelRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+await in sendTunnelRequest
+createTunnelPort @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+n @ 3907.618c047391a0016c9c58.js:1
+t.withRetries @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+withTunnelManagementClient @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+createOrReuseTunnelPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+forwardPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getStreamFromPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getVSCodeStream @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+o @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+measure @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+o @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+measure @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+initialize @ 514.js:1
+h @ 514.js:1
+create @ 514.js:1
+(anonymous) @ browserSocketFactory.ts:284
+connect @ browserSocketFactory.ts:282
+connect @ remoteSocketFactoryService.ts:58
+FXs @ remoteAgentConnection.ts:191
+VXs @ remoteAgentConnection.ts:235
+hSi @ remoteAgentConnection.ts:322
+dSi @ remoteAgentConnection.ts:344
+(anonymous) @ remoteAgentConnection.ts:418
+gSi @ remoteAgentConnection.ts:444
+await in gSi
+HXs @ remoteAgentConnection.ts:415
+u @ abstractRemoteAgentService.ts:226
+t @ abstractRemoteAgentService.ts:197
+getChannel @ abstractRemoteAgentService.ts:172
+withChannel @ abstractRemoteAgentService.ts:176
+m @ abstractRemoteAgentService.ts:129
+getRawEnvironment @ abstractRemoteAgentService.ts:59
+(anonymous) @ remoteFileSystemProviderClient.ts:30
+register @ remoteFileSystemProviderClient.ts:42
+j @ web.main.ts:346
+await in j
+open @ web.main.ts:122
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page Creating or reusing https/38307 with privacy 'undefined', attempt 0
+commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1 Refused to set unsafe header "User-Agent"
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+j @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+xhr @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+ot @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+_request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+axiosRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+request @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+sendTunnelRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+await in sendTunnelRequest
+createTunnelPort @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+n @ 3907.618c047391a0016c9c58.js:1
+t.withRetries @ 3907.618c047391a0016c9c58.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+withTunnelManagementClient @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+createOrReuseTunnelPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+forwardPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getStreamFromPort @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+getVSCodeStream @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+o @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+measure @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+o @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+measure @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+initialize @ 514.js:1
+h @ 514.js:1
+create @ 514.js:1
+(anonymous) @ browserSocketFactory.ts:284
+connect @ browserSocketFactory.ts:282
+connect @ remoteSocketFactoryService.ts:58
+FXs @ remoteAgentConnection.ts:191
+VXs @ remoteAgentConnection.ts:235
+hSi @ remoteAgentConnection.ts:322
+uSi @ remoteAgentConnection.ts:362
+(anonymous) @ remoteAgentConnection.ts:428
+gSi @ remoteAgentConnection.ts:444
+await in gSi
+WXs @ remoteAgentConnection.ts:425
+(anonymous) @ remoteExtensionHost.ts:126
+Promise.then
+start @ remoteExtensionHost.ts:102
+mTe @ extensionHostManager.ts:117
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+xb @ abstractExtensionService.ts:833
+wb @ abstractExtensionService.ts:812
+vb @ abstractExtensionService.ts:798
+kb @ abstractExtensionService.ts:459
+(anonymous) @ extensionService.ts:110
+Promise.then
+Oyt @ extensionService.ts:108
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:138
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page Created port https/38307 with privacy 'private'
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:workbench-telemetry:telemetry-service ["codespaces/web/load/action_stop",{"errorCode":-1,"errorType":"ConnectedError","errorMessage":"connected","originalErrorType":"[no original type]","errorDidCatch":false,"stack":"Error: connected\n    at [PATH]/514.js:1:124497\n    at Zre.value [PATH]/514.js:1:144557)\n    at I.C [PATH]/workbench.web.main.internal.js:29:2392)\n    at I.D [PATH]/workbench.web.main.internal.js:29:2462)\n    at I.fire [PATH]/workbench.web.main.internal.js:29:2680)\n    at h.<anonymous> [PATH]/514.js:1:149051)\n    at Generator.next (<anonymous>)\n    at s [PATH]/514.js:1:143411)","action":"Load","result":"Success"}]
+writeEvent @ 3907.618c047391a0016c9c58.js:1
+traceEvent @ 3907.618c047391a0016c9c58.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+traceEvent @ 3907.618c047391a0016c9c58.js:1
+error @ 3907.618c047391a0016c9c58.js:1
+sendTelemetry @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+I.componentDidCatch @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+C @ event.ts:1219
+D @ event.ts:1230
+fire @ event.ts:1254
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+initialize @ 514.js:1
+h @ 514.js:1
+create @ 514.js:1
+(anonymous) @ browserSocketFactory.ts:284
+connect @ browserSocketFactory.ts:282
+connect @ remoteSocketFactoryService.ts:58
+FXs @ remoteAgentConnection.ts:191
+VXs @ remoteAgentConnection.ts:235
+hSi @ remoteAgentConnection.ts:322
+uSi @ remoteAgentConnection.ts:362
+(anonymous) @ remoteAgentConnection.ts:428
+gSi @ remoteAgentConnection.ts:444
+await in gSi
+WXs @ remoteAgentConnection.ts:425
+(anonymous) @ remoteExtensionHost.ts:126
+Promise.then
+start @ remoteExtensionHost.ts:102
+mTe @ extensionHostManager.ts:117
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+xb @ abstractExtensionService.ts:833
+wb @ abstractExtensionService.ts:812
+vb @ abstractExtensionService.ts:798
+kb @ abstractExtensionService.ts:459
+(anonymous) @ extensionService.ts:110
+Promise.then
+Oyt @ extensionService.ts:108
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:138
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+log.ts:440  INFO Creating a socket (renderer-ExtensionHost-bfde6cb3-389c-4ff0-8958-1678cb739be3) was successful after 910 ms.
+commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1 Refused to set unsafe header "User-Agent"
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+j @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+xhr @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+ot @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+_request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+request @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+(anonymous) @ commons-bootstrap~pfHelper-axios.cjs.54c44c5927cd573b7fe0.js:1
+axiosRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+request @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+sendTunnelRequest @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+await in sendTunnelRequest
+listTunnelPorts @ commons-bootstrap~pfHelper-tunnelManagementHttpClient.js.da2fde81aa681ce2af41.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+revivePorts @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+C @ event.ts:1219
+D @ event.ts:1230
+fire @ event.ts:1254
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+initialize @ 514.js:1
+h @ 514.js:1
+create @ 514.js:1
+(anonymous) @ browserSocketFactory.ts:284
+connect @ browserSocketFactory.ts:282
+connect @ remoteSocketFactoryService.ts:58
+FXs @ remoteAgentConnection.ts:191
+VXs @ remoteAgentConnection.ts:235
+hSi @ remoteAgentConnection.ts:322
+uSi @ remoteAgentConnection.ts:362
+(anonymous) @ remoteAgentConnection.ts:428
+gSi @ remoteAgentConnection.ts:444
+await in gSi
+WXs @ remoteAgentConnection.ts:425
+(anonymous) @ remoteExtensionHost.ts:126
+Promise.then
+start @ remoteExtensionHost.ts:102
+mTe @ extensionHostManager.ts:117
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+xb @ abstractExtensionService.ts:833
+wb @ abstractExtensionService.ts:812
+vb @ abstractExtensionService.ts:798
+kb @ abstractExtensionService.ts:459
+(anonymous) @ extensionService.ts:110
+Promise.then
+Oyt @ extensionService.ts:108
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:138
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page initialize service worker Dev Tunnel connection
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page Created port https/38307 with privacy 'private'
+service-worker.js:1 vscs:sw:74b7:init got "configureDevTunnelConnectionMessageType" message {codespaceInfo: {…}}
+amdX.ts:112 Did not receive a define call from script https://assets.github.dev/insider/401e9484bad1f7e909e43e3271f51e7fca7bf14c/node_modules/vsda/rust/web/vsda.js
+load @ amdX.ts:112
+await in load
+Uu @ amdX.ts:228
+(anonymous) @ signService.ts:65
+j @ signService.ts:64
+Kt.t.<computed> @ decorators.ts:54
+c @ signService.ts:45
+createNewMessage @ abstractSignService.ts:29
+VXs @ remoteAgentConnection.ts:256
+await in VXs
+hSi @ remoteAgentConnection.ts:322
+uSi @ remoteAgentConnection.ts:362
+(anonymous) @ remoteAgentConnection.ts:428
+gSi @ remoteAgentConnection.ts:444
+await in gSi
+WXs @ remoteAgentConnection.ts:425
+(anonymous) @ remoteExtensionHost.ts:126
+Promise.then
+start @ remoteExtensionHost.ts:102
+mTe @ extensionHostManager.ts:117
+o @ instantiationService.ts:162
+createInstance @ instantiationService.ts:128
+xb @ abstractExtensionService.ts:833
+wb @ abstractExtensionService.ts:812
+vb @ abstractExtensionService.ts:798
+kb @ abstractExtensionService.ts:459
+(anonymous) @ extensionService.ts:110
+Promise.then
+Oyt @ extensionService.ts:108
+o @ instantiationService.ts:162
+x @ instantiationService.ts:295
+w @ instantiationService.ts:284
+v @ instantiationService.ts:273
+u @ instantiationService.ts:206
+s @ instantiationService.ts:190
+get @ instantiationService.ts:102
+(anonymous) @ workbench.ts:138
+invokeFunction @ instantiationService.ts:109
+startup @ workbench.ts:133
+open @ web.main.ts:131
+await in open
+JIi @ web.factory.ts:62
+createVSCodeWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+s @ 514.js:1
+Promise.then
+c @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+mount @ 514.js:1
+mountWorkbench @ 514.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+i @ 514.js:1
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+(anonymous) @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Zl @ 3981.js:1
+Gl @ 3981.js:1
+fu @ 3981.js:1
+enqueueSetState @ 3981.js:1
+S.setState @ 3920.js:1
+(anonymous) @ 514.js:1
+Promise.then
+componentDidMount @ 514.js:1
+fo @ 3981.js:1
+zu @ 3981.js:1
+t.unstable_runWithPriority @ 3920.js:1
+ql @ 3981.js:1
+Nu @ 3981.js:1
+gu @ 3981.js:1
+fu @ 3981.js:1
+Ju @ 3981.js:1
+(anonymous) @ 3981.js:1
+yu @ 3981.js:1
+ic @ 3981.js:1
+t.render @ 3981.js:1
+(anonymous) @ 514.js:1
+(anonymous) @ 514.js:1
+c @ 514.js:1
+t.main @ 514.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+s @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+Promise.then
+c @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+l @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+P @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+3979 @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+i.O @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+(anonymous) @ bootstrap.0f8c46e8b8c106fab3bc.js:1
+log.ts:440  INFO Creating a socket (renderer-Management-816d5d81-3178-45ff-a83c-a63ade28c34c) was successful after 1155 ms.
+log.ts:460   ERR navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:6146)
+    at Object.53315 (/home/codespace/.vscode-remote/extensions/node_modules/axios/dist/node/axios.cjs:1298:20)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.3797 (/home/codespace/.vscode-remote/extensions/node_modules/@microsoft/dev-tunnels-management/tunnelManagementHttpClient.js:10:17)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.93164 (/home/codespace/.vscode-remote/extensions/node_modules/@microsoft/dev-tunnels-management/index.js:19:14)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.63833 (/home/codespace/.vscode-remote/extensions/node_modules/@microsoft/dev-tunnels-connections/tunnelConnectionSession.js:7:34)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.46891 (/home/codespace/.vscode-remote/extensions/node_modules/@microsoft/dev-tunnels-connections/tunnelRelayTunnelClient.js:14:35)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.97786 (/home/codespace/.vscode-remote/extensions/node_modules/@microsoft/dev-tunnels-connections/index.js:31:14)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.25896 (/home/codespace/.vscode-remote/extensions/codespaces-internal/dist/src/connection/tunnelProvider.js:44:35)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.636 (/home/codespace/.vscode-remote/extensions/codespaces-internal/dist/src/connection/index.js:18:14)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.15362 (/home/codespace/.vscode-remote/extensions/codespaces-internal/dist/src/index.js:17:14)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.62287 (/home/codespace/.vscode-remote/extensions/vscode-command-framework/dist/src/vscodeIdleStatus/VscodeActivityProvider.js:4:31)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at Object.89813 (/home/codespace/.vscode-remote/extensions/vscode-command-framework/dist/src/index.js:53:32)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1567:248720
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23665
+    at Object.<anonymous> (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23704)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at Function.e._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:5519)
+    at Function.t._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:174:22697)
+    at Function.r._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:166:25633)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at KG.Cb (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:205:1253)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+qc @ workbench.ts:121
+(anonymous) @ workbench.ts:102
+onUnexpectedError @ errors.ts:65
+Ct @ errors.ts:110
+$onUnexpectedError @ mainThreadErrors.ts:21
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+log.ts:460   ERR navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:6146)
+    at Object.37662 (/home/codespace/.vscode-remote/extensions/node_modules/axios/lib/platform/common/utils.js:3:20)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1567:268251
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23665
+    at Object.<anonymous> (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23704)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at Function.e._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:5519)
+    at Function.t._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:174:22697)
+    at Function.r._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:166:25633)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at KG.Cb (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:205:1253)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+qc @ workbench.ts:121
+(anonymous) @ workbench.ts:102
+onUnexpectedError @ errors.ts:65
+Ct @ errors.ts:110
+$onUnexpectedError @ mainThreadErrors.ts:21
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+log.ts:460   ERR navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:6146)
+    at getUserAgent (/home/codespace/.vscode-remote/extensions/node_modules/universal-user-agent/dist-web/index.js:2:5)
+    at Object.37662 (/home/codespace/.vscode-remote/extensions/node_modules/@octokit/endpoint/dist-src/defaults.js:3:53)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1567:268251
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23665
+    at Object.<anonymous> (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23704)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at Function.e._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:5519)
+    at Function.t._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:174:22697)
+    at Function.r._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:166:25633)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at KG.Cb (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:205:1253)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+qc @ workbench.ts:121
+(anonymous) @ workbench.ts:102
+onUnexpectedError @ errors.ts:65
+Ct @ errors.ts:110
+$onUnexpectedError @ mainThreadErrors.ts:21
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+log.ts:460   ERR navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:6146)
+    at getUserAgent (/home/codespace/.vscode-remote/extensions/node_modules/universal-user-agent/dist-web/index.js:2:5)
+    at Object.37662 (/home/codespace/.vscode-remote/extensions/node_modules/@octokit/request/dist-src/index.js:7:52)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1567:268251
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23665
+    at Object.<anonymous> (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23704)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at Function.e._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:5519)
+    at Function.t._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:174:22697)
+    at Function.r._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:166:25633)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at KG.Cb (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:205:1253)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+qc @ workbench.ts:121
+(anonymous) @ workbench.ts:102
+onUnexpectedError @ errors.ts:65
+Ct @ errors.ts:110
+$onUnexpectedError @ mainThreadErrors.ts:21
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+log.ts:460   ERR navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.: PendingMigrationError: navigator is now a global in nodejs, please see https://aka.ms/vscode-extensions/navigator for additional info on this error.
+    at get (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:6146)
+    at getUserAgent (/home/codespace/.vscode-remote/extensions/node_modules/universal-user-agent/dist-web/index.js:2:5)
+    at Object.37662 (/home/codespace/.vscode-remote/extensions/node_modules/@octokit/graphql/dist-web/index.js:112:52)
+    at __webpack_require__ (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/webpack/bootstrap:19:32)
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1567:268251
+    at /home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23665
+    at Object.<anonymous> (/home/codespace/.vscode-remote/extensions/github.codespaces-1.17.3/out/bundle/extension-node.js:1574:23704)
+    at Module._compile (node:internal/modules/cjs/loader:1730:14)
+    at Object..js (node:internal/modules/cjs/loader:1895:10)
+    at Module.load (node:internal/modules/cjs/loader:1465:32)
+    at Function.<anonymous> (node:internal/modules/cjs/loader:1282:12)
+    at Function.e._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:356:5519)
+    at Function.t._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:174:22697)
+    at Function.r._load (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:166:25633)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1487:12)
+    at require (node:internal/modules/helpers:135:16)
+    at KG.Cb (file:///vscode/bin/linux-x64/401e9484bad1f7e909e43e3271f51e7fca7bf14c-insider/out/vs/workbench/api/node/extensionHostProcess.js:205:1253)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+qc @ workbench.ts:121
+(anonymous) @ workbench.ts:102
+onUnexpectedError @ errors.ts:65
+Ct @ errors.ts:110
+$onUnexpectedError @ mainThreadErrors.ts:21
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+log.ts:460   ERR [Extension Host] (node:22333) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+Gcs @ remoteConsoleUtil.ts:58
+$logExtensionHostMessage @ mainThreadConsole.ts:38
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+console.ts:137 [Extension Host] (node:22333) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+zcs @ console.ts:137
+$logExtensionHostMessage @ mainThreadConsole.ts:39
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+3907.618c047391a0016c9c58.js:1 vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscs:web-client:dbc2:codespaces-component:workbench-page:workbench:vscode-workbench:providers:commands command "_codespaces.timeToInteractive" is invoked'
+log.ts:440  INFO Settings Sync: Account status changed from uninitialized to available
+log.ts:460   ERR [Extension Host] (node:22333) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+error @ log.ts:460
+error @ log.ts:565
+error @ logService.ts:51
+Gcs @ remoteConsoleUtil.ts:58
+$logExtensionHostMessage @ mainThreadConsole.ts:38
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+console.ts:137 [Extension Host] (node:22333) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+zcs @ console.ts:137
+$logExtensionHostMessage @ mainThreadConsole.ts:39
+S @ rpcProtocol.ts:458
+Q @ rpcProtocol.ts:443
+M @ rpcProtocol.ts:373
+L @ rpcProtocol.ts:299
+(anonymous) @ rpcProtocol.ts:161
+C @ event.ts:1219
+fire @ event.ts:1250
+fire @ ipc.net.ts:652
+A @ ipc.net.ts:1022
+(anonymous) @ ipc.net.ts:879
+C @ event.ts:1219
+fire @ event.ts:1250
+acceptChunk @ ipc.net.ts:394
+(anonymous) @ ipc.net.ts:350
+(anonymous) @ browserSocketFactory.ts:231
+C @ event.ts:1219
+fire @ event.ts:1250
+(anonymous) @ 514.js:1
+i.emit @ 3907.618c047391a0016c9c58.js:1
+L @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+E @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+k.push @ commons-bootstrap~pfHelper-_stream_readable.js.f08e52437a572f9e5e12.js:1
+(anonymous) @ 3907.618c047391a0016c9c58.js:1
+invoke @ 3907.618c047391a0016c9c58.js:1
+fire @ 3907.618c047391a0016c9c58.js:1
+handleDataReceived @ commons-bootstrap-sshChannel.js.2d038ebb3b345acfccb4.js:1
+handleDataMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ 3907.618c047391a0016c9c58.js:1
+handleMessage @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+processMessages @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
+await in processMessages
+doConnect @ commons-bootstrap~pfHelper-sshSession.js.2f8d74d4b6ee40f6b280.js:1
